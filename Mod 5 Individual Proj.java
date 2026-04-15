@@ -3,7 +3,7 @@ import java.io.*;
 
 /**
  * Concrete Pad Estimating Application
- * A simple program to help Jim's construction business 
+ * Helps Jim's construction business 
  * calculate concrete pad estimates
  */
 
